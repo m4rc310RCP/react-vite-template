@@ -50,8 +50,8 @@ body {
   --color-tv-yellow: #ffff00;
   --color-tv-green: #00ff00;
   --color-tv-red: #ff0000;
-	--color-primary: #ff0000;
-	--color-secundary: #00c00a;
+	--color-primary: #FFFFFF;
+	--color-secundary: #F9FAFB;
 
   /* 🔤 Font sizes */
   --text-xxs: 0.65rem;
