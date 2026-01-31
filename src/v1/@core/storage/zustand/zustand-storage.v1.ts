@@ -17,7 +17,7 @@ export const useKanbanStore = create<KanbanStore>()(
   persist(
     (set, get) => ({
       // mode: "NORMAL",
-			// applyEvent(event) {
+			// applyEvent(event) {git push 
 			// 	switch (event.type) {
 			// 		case "CHANGE_OPERATION_MODE": {
 			// 			set({ mode: event.mode });
